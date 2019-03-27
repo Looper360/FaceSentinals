@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>org.bytedeco</groupId>
+  <artifactId>javacpp-presets</artifactId>
+  <version>1.4.2-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20180615.132751</timestamp>
+      <buildNumber>8897</buildNumber>
+    </snapshot>
+    <lastUpdated>20180615132751</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>1.4.2-20180615.132751-8897</value>
+        <updated>20180615132751</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>

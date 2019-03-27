@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Sat Aug 04 21:12:17 BDT 2018
+http\://repo.maven.apache.org/maven2/.lastUpdated=1533395537112
+default-https\://jitpack.io/.lastUpdated=1533395536457
+https\://jitpack.io/.error=Could not transfer artifact com.github.axet\:java-flac-encoder\:pom\:0.3.8 from/to jitpack.io (https\://jitpack.io)\: Not authorized , ReasonPhrase\:Unauthorized.
